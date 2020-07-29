@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: 68760488_527186211418432_2881036358554859167_n.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

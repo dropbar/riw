@@ -84,6 +84,8 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+    background-size: cover;
+    background-image: url("img/spark1.jpg");
 }
 
 header .container {
