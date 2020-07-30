@@ -1,17 +1,12 @@
 # Site settings
 title: Raines Ironworks
-email: beastly@rainesironworks.com.com
+title2:
+email: mqkynzwp
 url: https://dropbar.github.io/riw
 description: "metal as fuck"
 keywords: "iron, meta, fabrication, cute,"
-skills: "quality furniture and decor | hand made in the USA"
+skills: "quality furniture and decor"
 meta_author: hammer forgerson 
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -36,15 +31,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url:
+  - title: etsy
+    url: https://www.etsy.com/shop/RainesIronWorks
   - title: instagram
     url: http://instagram.com/rainesironworks
   
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Credits content
 credits: ''

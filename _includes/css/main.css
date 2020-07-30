@@ -49,7 +49,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f013";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -185,6 +185,14 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+.site-logo img {
+  max-height: 6rem;
+}
+
+.site-logo-lg img {
+  max-height: 12rem;
 }
 
 @media(max-width:767px) {
